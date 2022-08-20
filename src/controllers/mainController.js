@@ -32,7 +32,7 @@ const controller = {
 		})
 	},
 	search: (req, res) => {
-		// Do the magic
+		res.render ('result')
 	},
 };
 
